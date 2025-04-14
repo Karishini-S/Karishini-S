@@ -3,7 +3,7 @@ I'm Karishini, a second year B.Tech student.
 Passionate about Full Stack Development, AI & ML, AI in finance
 
 ## ✨About me:
-Currently pursuing B.Tech in **AI & Data Science**
+Currently pursuing B.Tech in **AI & Data Science**.
 My happy place is somewhere between solving backend bugs and refining UI themes
 When I'm not building, I'm probably immersed in stories that spark creativity and imagination
 
