@@ -1,5 +1,5 @@
 ## Hi there 👋! 
-I'm Karishini, a second year B.Tech student.
+I'm Karishini, a pre-final year B.Tech student.
 Passionate about Full Stack Development, AI & ML, AI in finance
 
 ## ✨About me:
